@@ -4,19 +4,19 @@ A comprehensive, science-based guide to lucid dreaming with practical tools and 
 
 ## 🌙 What's Inside
 
-**[Main Protocol](https://yourusername.github.io/lucidity/)** - Complete lucid dreaming training program
+**[Main Protocol](https://ra13s.github.io/lucid-dreaming-guide/)** - Complete lucid dreaming training program
 - Weekly workout schedule with progression milestones
 - Evidence-based techniques (WBTB+MILD, SSILD, DEILD, TLR)
 - Dream journaling guidelines and reality check training
 - In-dream stabilization and control techniques
 
-**[TLR Audio Generator](https://yourusername.github.io/lucidity/tlr-generator.html)** - Create targeted lucidity rehearsal audio
+**[TLR Audio Generator](https://ra13s.github.io/lucid-dreaming-guide/tlr-generator.html)** - Create targeted lucidity rehearsal audio
 - Northwestern University protocol implementation
 - Custom cue generation with precise timing
 - Raw audio downloads for your own apps
 - Multiple sound options and formats
 
-**[Supplement Guide](https://yourusername.github.io/lucidity/supplements.html)** - Pharmacologically-optimized stacks
+**[Supplement Guide](https://ra13s.github.io/lucid-dreaming-guide/supplements.html)** - Pharmacologically-optimized stacks
 - Evidence-based supplement protocols ranked by effectiveness
 - Safety guidelines and dosage recommendations
 - Mechanistic explanations and research citations
